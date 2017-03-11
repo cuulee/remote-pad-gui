@@ -113,6 +113,10 @@ function createWindow () {
             },
             snes9x: {
                 binary: ''
+            },
+            epsxe: {
+                binary: '',
+                bios: ''
             }
         }
     })

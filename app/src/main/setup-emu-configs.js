@@ -26,7 +26,8 @@ function copyEmulatorsConfig (dir) {
         const options = {
             filter: [
                 '**/mupen64plus.cfg',
-                '**/snes9x.xml'
+                '**/snes9x.xml',
+                '**/epsxerc'
             ]
         }
 
